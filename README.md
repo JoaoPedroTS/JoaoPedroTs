@@ -1,8 +1,7 @@
 ## Olá me chamo João Pedro
 - 🔭 Atualmente estudo engenharia da computação na UFSC
 - 🌱 Estudando Data Science
-- ⚡ Fun fact:
+- ⚡ Curiosidade: Me considero ao mesmo tempo cético e superticioso 
 <div align="center">
-  <a href="https://github.com/JoaoPedroTS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroTs&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
