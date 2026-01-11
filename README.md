@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
 # Olá me chamo João Pedro
 
 **Engenharo de Computação**, com forte interesse em **Engenharia de Dados, Cloud e Sistemas Distribuídos**. Sou maratonista e nadador nas horas vagas
@@ -9,21 +11,20 @@ Atualmente estou focado em aprofundar meus conhecimentos em **Cloud Computing e 
 
 ## 🛠️ Tech Stack
 
-### **Linguagens**
-- Python  
-- SQL  
-- C/C++
+**Aplicações e dados**
 
-### **Ferramentas & Plataformas**
-- Docker & Docker Compose  
-- Apache Airflow  
-- Git & GitHub  
-- Linux (Ubuntu)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 
-### **Cloud & Infra (em evolução)**
-- AWS  
-- Azure
-- GCP
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+### **Cloud & Infra**
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=gcp)
 
 ---
 
